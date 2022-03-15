@@ -31,7 +31,7 @@ Note that we require you to add full test coverage and that all tests pass befor
 - [User interface](https://i.imgur.com/QQMF3G9.png)
 - Frontend needs to be built on React
 - Needs a backend API based on ExpressJS to persist data
-- No need for a database layer like Mysql or MongoDB but a simple in memory db like https://github.com/louischatriot/nedb would be enough
+- No need for a database layer like Mysql or MongoDB but a simple [local JSON database](https://www.npmjs.com/package/lowdb) would suffice
 
 ## Features required
 
