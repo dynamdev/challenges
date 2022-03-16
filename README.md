@@ -1,6 +1,6 @@
-# AxiePro Coding Challenges
+# P2EPro Coding Challenges
 
-This repository houses the coding challenges for AxiePro. These are small hands-on projects that are very relevant to the tasks you will be working on.
+This repository houses the coding challenges for P2EPro. These are small hands-on projects that are very relevant to the tasks you will be working on.
 
 ### Ground Rules
 
