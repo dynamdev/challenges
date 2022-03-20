@@ -21,10 +21,6 @@ Rather than a complex solution, which added a million features and added 1000's 
 
 Once you have submitted your solution by sending us the github repository, our Engineers will review the code. Based on the feedback, we will invite you for a meeting to talk more about your submission and continue the recruitment process.
 
-## Testing your implementation
-
-Note that we require you to add full test coverage and that all tests pass before we can invite you in for an interview.
-
 ## Challenge
 
 - Create a simple reading list app based on the following UI
@@ -32,6 +28,7 @@ Note that we require you to add full test coverage and that all tests pass befor
 - Frontend needs to be built on React
 - Needs a backend API based on ExpressJS to persist data
 - No need for a database layer like Mysql or MongoDB but a simple [local JSON database](https://www.npmjs.com/package/lowdb) would suffice
+- Note that we require you to add **full unit tests coverage and that all tests pass**
 
 ## Features required
 
