@@ -1,3 +1,5 @@
+![FE_book_list](https://user-images.githubusercontent.com/8447368/159505647-4b8ab3a9-e582-47e6-af7e-30a63658ba82.PNG)
+
 # P2EPro Coding Challenges
 
 This repository houses the coding challenges for P2EPro. These are small hands-on projects that are very relevant to the tasks you will be working on.
