@@ -1,0 +1,7 @@
+.navbar {
+    background: #4542d3;
+}
+
+.container > .navbar-brand {
+    color: #f7f5ff !important;
+}

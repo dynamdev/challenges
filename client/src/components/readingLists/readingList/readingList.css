@@ -1,0 +1,17 @@
+.card {
+    background-color: #fbefe3;
+}
+
+.card-title {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.h5 {
+    color: #040101;
+}
+
+.h6 {
+    color: #ea8f74;
+}

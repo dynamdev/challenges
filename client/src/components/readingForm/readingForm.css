@@ -1,0 +1,16 @@
+.form-control {
+    border-radius: 0;
+}
+
+.btn-create {
+    background-color:#fe805d;
+	border-radius:28px;
+	border: 0;
+	display:inline-block;
+	cursor:pointer;
+	color:#fff4e9;
+	font-size:15px;
+    font-weight: bold;
+	padding:16px 31px;
+    width: 150px;
+}
